@@ -1,0 +1,10 @@
+[
+  {
+    "filename": "modA.jar",
+    "url": "https://raw.githubusercontent.com/yourname/minecraft-resources/main/mods/modA.jar"
+  },
+  {
+    "filename": "modB.jar",
+    "url": "https://raw.githubusercontent.com/yourname/minecraft-resources/main/mods/modB.jar"
+  }
+]
